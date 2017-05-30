@@ -8,6 +8,8 @@ Processing sketch that turns the monome into a scrolling LED display. Receives O
 
 Processing sketch is currently hard-coded to accept OSC commands on port 7777. That port should be configured in the Max4Live device.
 
+![M4L device settings](/m4l device settings.jpg)
+
 The Processing sketch in this repository is strucured to be used in Eclipse, not the Processing IDE. Read more here: https://processing.org/tutorials/eclipse/. 
 
 # Instructions
