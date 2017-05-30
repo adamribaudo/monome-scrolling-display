@@ -22,7 +22,7 @@ public class MonomeDisplay extends PApplet {
 	}
 	
 	public void settings() {
-		  size(160, 80); // use the P2D renderer for the shader modes,
+		  size(160, 80); //Displays the monome's output on the screen
 	}
 	
 	public void setup()
