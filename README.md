@@ -1,7 +1,5 @@
 # monome-scrolling-display
 
-![Monom Scrolling Display](/example.gif)
-
 Processing sketch that turns the monome into a scrolling LED display. Receives OSC data from an Ableton Max4Live device in the form of
 
 /mtn/note [note value] [velocity] [channel number]
@@ -23,3 +21,9 @@ The Processing sketch in this repository is strucured to be used in Eclipse, not
 - Max4Live Device that converts MIDI data into OSC data mtn.oscFromMidi.amxd
 - Ableton Live
 - SerialOSC https://github.com/monome/serialosc/releases
+
+# Exmaples
+
+![Monom Scrolling Display](/example.gif)
+
+- https://vimeo.com/219413987
