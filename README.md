@@ -6,6 +6,6 @@ Processing sketch that turns the monome into a scrolling LED display. Receives O
 
 Note that [velocity] must be >0 (note off commands are ignored)
 
-#Dependencies
+# Dependencies
 - Monome Processing https://github.com/monome/monome-processing
 - OscP5 http://www.sojamo.de/libraries/oscP5/
