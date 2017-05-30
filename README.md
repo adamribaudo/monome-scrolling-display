@@ -22,7 +22,7 @@ The Processing sketch in this repository is strucured to be used in Eclipse, not
 - Ableton Live
 - SerialOSC https://github.com/monome/serialosc/releases
 
-# Exmaples
+# Examples
 
 ![Monom Scrolling Display](/example.gif)
 
