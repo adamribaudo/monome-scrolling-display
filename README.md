@@ -18,7 +18,7 @@ The Processing sketch in this repository is strucured to be used in Eclipse, not
 # Dependencies
 - Monome Processing https://github.com/monome/monome-processing
 - OscP5 http://www.sojamo.de/libraries/oscP5/
-- Max4Live Device that converts MIDI data into OSC data mtn.oscFromMidi.amxd
+- Max4Live Device that converts MIDI data into OSC data (included in root of repo as mtn.oscFromMidi.amxd)
 - Ableton Live
 - SerialOSC https://github.com/monome/serialosc/releases
 
