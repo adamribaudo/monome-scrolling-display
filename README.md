@@ -1,5 +1,7 @@
 # monome-scrolling-display
 
+!(monome-scrolling-display/example.gif)
+
 Processing sketch that turns the monome into a scrolling LED display. Receives OSC data from an Ableton Max4Live device in the form of
 
 /mtn/note [note value] [velocity] [channel number]
